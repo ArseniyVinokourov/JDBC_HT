@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ci-workfusion" />
+      <option name="name" value="ci-workfusion" />
+      <option name="url" value="http://ci.crowdcomputingsystems.com:8081/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wf-archetypes" />
+      <option name="name" value="WorkFusion Nexus Repository - archetypes" />
+      <option name="url" value="https://repository.workfusion.com/content/repositories/archetypes" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wf-nexus-releases" />
+      <option name="name" value="WorkFusion Nexus Repository - releases" />
+      <option name="url" value="https://repository.workfusion.com/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ps" />
+      <option name="name" value="ml sdk" />
+      <option name="url" value="https://delivery-101-wfaw-10035-nexus-lb1.workfusion.com/nexus/content/repositories/ml-sdk/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wf-nexus-snapshots" />
+      <option name="name" value="WorkFusion Nexus Repository - snapshots" />
+      <option name="url" value="https://repository.workfusion.com/content/repositories/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wf-dependencies" />
+      <option name="name" value="WorkFusion Nexus Repository - dependencies" />
+      <option name="url" value="https://repository.workfusion.com/content/groups/dependencies" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wf-nexus-dependencies" />
+      <option name="name" value="WorkFusion Nexus Repository - dependencies" />
+      <option name="url" value="https://repository.workfusion.com/content/repositories/wf-dependencies" />
+    </remote-repository>
+  </component>
+</project>
